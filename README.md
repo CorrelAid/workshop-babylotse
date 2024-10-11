@@ -3,6 +3,8 @@
 This workshop is based on a collaboration with Babylotse, a program offered by Kinderschutzbund –
 Bezirksverband Frankfurt am Main e. V.. We extend our sincere thanks to Nicola Küpelikilinc (<babylotse@kinderschutzbund-frankfurt.de>) for her permission to publish and use the data.
 
+![approach](./approach.png)
+
 ## Setup
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
