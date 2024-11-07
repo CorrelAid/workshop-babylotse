@@ -5,6 +5,18 @@ Bezirksverband Frankfurt am Main e. V.. We extend our sincere thanks to Nicola K
 
 ![approach](./approach.png)
 
+## License
+### Code
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+ 
+### Data 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+The [survey data](https://github.com/CorrelAid/workshop-babylotse/blob/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv) are licensed under CC-BY 4.0. Attribution can be done in the form:
+
+🇬🇧: _"Family satisfaction in Frankfurt - Babylotse survey 2024" by [Babylotse Frankfurt](https://babylotse-frankfurt.de/), accessible [on GitHub](https://raw.githubusercontent.com/CorrelAid/workshop-babylotse/refs/heads/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv)_ 
+:de: _"Zufriedenheit von Familien in Frankfurt - Babylotse Umfrage 2024" von [Babylotse Frankfurt](https://babylotse-frankfurt.de/), verfügbar [auf GitHub](https://raw.githubusercontent.com/CorrelAid/workshop-babylotse/refs/heads/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv)_ 
+
 ## Setup
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
