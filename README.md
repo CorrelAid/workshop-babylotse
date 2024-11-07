@@ -15,7 +15,10 @@ Bezirksverband Frankfurt am Main e. V.. We extend our sincere thanks to Nicola K
 The [survey data](https://github.com/CorrelAid/workshop-babylotse/blob/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv) are licensed under CC-BY 4.0. Attribution can be done in the form:
 
 🇬🇧: _"Family satisfaction in Frankfurt - Babylotse survey 2024" by [Babylotse Frankfurt](https://babylotse-frankfurt.de/), accessible [on GitHub](https://raw.githubusercontent.com/CorrelAid/workshop-babylotse/refs/heads/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv)_ 
+
 :de: _"Zufriedenheit von Familien in Frankfurt - Babylotse Umfrage 2024" von [Babylotse Frankfurt](https://babylotse-frankfurt.de/), verfügbar [auf GitHub](https://raw.githubusercontent.com/CorrelAid/workshop-babylotse/refs/heads/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv)_ 
+
+We thank Nicola Küpelikilinc (<babylotse@kinderschutzbund-frankfurt.de>) for her permission to publish and use the data under open licenses.
 
 ## Setup
 
